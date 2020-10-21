@@ -17,7 +17,6 @@ export default {}
   align-items: center;
   text-align: center;
 }
-
 .title {
   font-family:
     'Quicksand',
